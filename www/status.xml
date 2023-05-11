@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="status.xsl"?>
+<prometheus usercount="2">
+	<game name="ULES00502" usercount="2">
+		<group name="GTAVCS00" usercount="2">
+			<user>Adiru</user>
+			<user>PPSSPP</user>
+		</group>
+	</game>
+</prometheus>
